@@ -3,15 +3,13 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+സുഖമാണോ മോനെ 😈⚡
+
+എന്നെ നിങ്ങടെ ഗ്രൂപ്പിൽ ചേർക്കാൻ നോക്കണ്ട അത് നടക്കില്ല എന്നെ CMW നു വേണ്ടി മാത്രം ഉണ്ടാക്കിയതാണ്😈⚡
 
 This is Version 2 of Auto Filter Bot
 
-Bot gives button link to files in connected channels on query !
-
-No need to add filters for your files or movies from now on!
-
-For more click <i>help</i></b>"""
+<i>ഓടിക്കോ മോനെ</i></b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
